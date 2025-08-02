@@ -1,0 +1,23 @@
+# Core FastAPI and server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# AI and API client
+anthropic==0.34.0
+
+# HTTP and networking
+httpx==0.25.2
+anyio
+
+# Template and file handling
+jinja2==3.1.2
+python-multipart==0.0.6
+aiofiles
+# Data validation and serialization
+pydantic
+# Environment and configuration
+python-dotenv==1.0.0
+
+# Development and testing (optional)
+pytest==7.4.3
+pytest-asyncio==0.21.1
