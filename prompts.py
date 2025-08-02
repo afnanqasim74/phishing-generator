@@ -1,7 +1,3 @@
-"""
-Prompt templates for phishing email generation
-Centralized prompt management for better maintainability
-"""
 
 class PhishingPrompts:
     """Collection of prompts for different phishing scenarios"""
